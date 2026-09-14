@@ -3,6 +3,3 @@ os=Windows
 arch=x86_64
 compiler=clang
 compiler.version=21
-
-[tool_requires]
-llvm-toolchain/21.*

@@ -4,5 +4,3 @@ arch=armv8
 compiler=clang
 compiler.version=20
 
-[tool_requires]
-llvm-toolchain/20.*

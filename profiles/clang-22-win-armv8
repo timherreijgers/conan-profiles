@@ -1,0 +1,8 @@
+[settings]
+os=Windows
+arch=armv8
+compiler=clang
+compiler.version=22
+
+[tool_requires]
+llvm-toolchain/22.*

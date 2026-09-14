@@ -1,0 +1,8 @@
+[settings]
+os=Macos
+arch=armv8
+compiler=clang
+compiler.version=23
+
+[tool_requires]
+llvm-toolchain/23.*

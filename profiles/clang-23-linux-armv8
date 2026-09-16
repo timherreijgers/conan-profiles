@@ -5,4 +5,4 @@ compiler=clang
 compiler.version=23
 
 [tool_requires]
-llvm-toolchain/23.*
+llvm-toolchain/[>=23.0 <24.0]
